@@ -7,6 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiqss&layout=donut&theme=dark)](https://github.com/gabiqss/github-readme-stats)
 
 # Trophy
+[![card](https://github-profile-trophy.vercel.app/?username=gabiqss&theme=dark)
 
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
