@@ -2,7 +2,7 @@
 
 💻 I'm Gabriela and I'm a Fullstack Dev.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabiqss&show_icons=true&theme=tokyonight)
+
 # Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiqss&layout=donut)](https://github.com/gabiqss/github-readme-stats)
 
