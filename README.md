@@ -2,7 +2,7 @@
 
 💻 I'm Gabriela and I'm a Fullstack Dev.
 
-[![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})
+[![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabiqss&theme=dark)
 # Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiqss&layout=donut&theme=dark)](https://github.com/gabiqss/github-readme-stats)
 
