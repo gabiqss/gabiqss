@@ -1,6 +1,7 @@
 ## Welcome to my profile!
 
 💻 I'm Gabriela and I'm a Fullstack Dev.
+
 👨‍💻 I'm currently learning JavaScript.
 
 ![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabiqss&theme=dark)
