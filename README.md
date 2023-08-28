@@ -2,7 +2,7 @@
 
 💻 I'm Gabriela and I'm a Fullstack Dev.
 
-👨‍💻 I'm currently learning JavaScript and C.
+👨‍💻 I'm currently learning JavaScript.
 
 ![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabiqss&theme=dark)
 # Languages and Tools:
