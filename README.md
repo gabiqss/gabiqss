@@ -4,7 +4,6 @@
 
 👨‍💻 I'm currently learning JavaScript.
 
-![card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabiqss&theme=dark)
 # Languages and Tools:
 
 ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
